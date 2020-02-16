@@ -1,0 +1,10 @@
+<RCC>
+  <qresource>
+    <file>../../res/about.png</file>
+    <file>../../res/download.png</file>
+    <file>../../res/icon.png</file>
+    <file>../../res/main.png</file>
+    <file>../../res/style.qss</file>
+    <file>../../res/touwei.png</file>
+  </qresource>
+</RCC>
